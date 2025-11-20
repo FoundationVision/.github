@@ -4,7 +4,7 @@
 
 Hello! This is the GitHub space for the **FoundationVision @ ByteDance**.
 
-We are dedicated to **exploring the frontiers of multimodal intelligence, with the ultimate goal of constructing Artificial General Intelligence (AGI)**.
+We are dedicated to **exploring the frontiers of multimodal intelligence, with the ultimate goal of building Artificial General Intelligence systems (AGI)**.
 
 Our research focuses on **deep learning and multimodal intelligence**. We are particularly interested in:
 * Visual Foundation Models, Generative Pretrained Models and Large Language Models.
